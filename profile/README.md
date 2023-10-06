@@ -4,8 +4,11 @@ Initiated by Professor [Qiuhua Liang](https://www.lboro.ac.uk/departments/abce/s
 Working at the forefront of computational and data technologies, we develop new numerical methods and models for simulating flooding and the associated transport processes, including sediment dynamics, hydro-geomorphological change, floating debris and pollutant transport, using the latest high-performance computing technology based on graphics processing units (GPUs).
 
 The high-performance numerical methods and models are adapted and applied to simulate other types of natural hazards, including dam-break floods, tsunamis, storm surges, flow-like landslides and debris flows.
+
+# HiPIMS Tree
 ![HiPIMS development tree](./profile/img/tree.png)
 
+## References
 [1] Solving the full shallow water equations (SWEs) on dynamically adaptive quadtree grids
 -	[Liang Q, Borthwick AGL, Stelling G (2004) Simulation of Dam and Dyke-break Hydrodynamics on Dynamically Adaptive Quadtree Grids. International Journal for Numerical Methods in Fluids, 46: 127-162.](https://doi.org/10.1002/fld.748)
 -	[Liang Q, Du G, Hall JW, Borthwick AGL (2008) Flood Inundation Modelling with an Adaptive Quadtree Grid Shallow Water Equation Solver. ASCE - Journal of Hydraulic Engineering, 134(11): 1603-1610.](https://doi.org/10.1061/(ASCE)0733-9429(2008)134:11(1603))
