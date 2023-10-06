@@ -6,6 +6,7 @@ Working at the forefront of computational and data technologies, we develop new 
 The high-performance numerical methods and models are adapted and applied to simulate other types of natural hazards, including dam-break floods, tsunamis, storm surges, flow-like landslides and debris flows.
 
 # HiPIMS Tree
+The ‘HiPIMS Tree’ illustrates the brief development history of HiPIMS and the integrated modelling components.
 ![HiPIMS development tree](./profile/img/tree.png)
 
 ## References
